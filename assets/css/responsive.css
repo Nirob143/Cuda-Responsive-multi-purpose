@@ -1,0 +1,145 @@
+/* Medium Layout: 1280px. */
+
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+.top-icon {
+	top: 0;
+	font-size: 35px;
+}
+.navbar-nav.ml-auto a {
+	font-size: 19px;
+	padding: 10px 20px;
+}
+.top-left p, .top-right p {
+	font-size: 15px;
+}
+.about-content h1 {
+	font-size: 41px;
+	line-height: 35px;
+	margin-bottom: 38px;
+}
+.box a {
+	margin-top: 135px;
+}
+
+
+
+
+
+
+
+	}
+/* Tablet Layout: 768px. */
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+ .navbar-nav.ml-auto a {
+	font-size: 15px;
+	padding: 10px 11px;
+}
+.single-footer {
+	margin-bottom: 40px;
+}
+button {
+	right: 85px;
+	top: 52px;
+	padding: 3px 11px;
+}
+.slider-content {
+	left: 18%;
+	top: 21%;
+}
+.single-counter {
+	margin-bottom: 40px;
+}
+.slider-content h1 {
+	font-size: 30px;
+}
+.single-icon h2 {
+	font-size: 15px;
+}
+.icon-content p {
+	font-size: 16px;
+}
+
+}
+/* Mobile Layout: 320px. */
+
+@media only screen and (max-width: 767px) {
+ .content-form h4 {
+	font-size: 20px;
+}
+.content-form h3 {
+	font-size: 20px;
+}
+.form h3 {
+	font-size: 20px;
+}
+.secton-title h4 {
+	font-size: 23px;
+}
+.secton-title h5 {
+	font-size: 25px;
+}
+.block-title h4 {
+	font-size: 22px;
+}
+.slider-content h4 {
+	font-size: 20px;
+	line-height: 29px;
+	margin-bottom: 6px;
+}
+.slider-content p {
+	font-size: 13px;
+	margin-bottom: 0;
+}
+.single-counter {
+	text-align: center;
+	margin-bottom: 35px;
+}
+.slider-content h1 {
+	font-size: 22px;
+}
+.slider-content a {
+	margin-right: 20px;
+	text-decoration: none;
+	font-size: 12px;
+}
+.owl-dots button {
+	margin-right: -19px;
+}
+.single-icon {
+	margin-bottom: 34px;
+}
+.section-title h4, .content-icon h4 {
+	font-size: 23px;
+}
+.section-title h5 {
+	font-size: 15px;
+}
+.section-title p {
+	font-size: 15px;
+}
+.section-title h4, .content-icon h4 {
+	font-size: 18px;
+}
+.section-title h1 {
+	font-size: 20px;
+}
+.single-counter h2 {
+	font-size: 30px;
+}
+.single-counter p {
+	font-size: 15px;
+}
+.section-title h1 {
+	font-size: 19px;
+	color: #888;
+	font-weight: 400;
+	margin-top: 55px;
+}
+}
+/* Wide Mobile Layout: 480px. */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+	
+	
+}
